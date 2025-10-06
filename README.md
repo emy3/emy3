@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**emy3/emy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps enthusiast** skilled in:
+- Jenkins
+- Android
+- Java
+- Spring
+- Maven
 
-Here are some ideas to get you started:
+**Favorite repository:**  
+[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Hobbies
+- 🎮 Gaming
+- 💻 Programming
+- 🤖 Building Gundam models
