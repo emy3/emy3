@@ -53,6 +53,16 @@
 
 ---
 
+### 🏆 Holopin Badges
+
+<div align="center">
+
+[![An image of @emy3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emy3)](https://holopin.io/@emy3)
+
+</div>
+
+---
+
 <div align="center">
   
 ### 🌟 *"Code. Build. Deploy. Repeat."* 🌟
