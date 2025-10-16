@@ -8,34 +8,11 @@
 
 ---
 
-### 🎯 What I'm Into
+### 💡 About me
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Gaming" width="60" height="60" />
-<br><b>Gaming</b>
-<br><sub>Leveling up IRL & in-game</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Programming" width="60" height="60" />
-<br><b>Programming</b>
-<br><sub>Building cool stuff</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Gundam" width="60" height="60" />
-<br><b>Gundam Models</b>
-<br><sub>Precision & patience</sub>
-</td>
-</tr>
-</table>
-
----
-
-### 💡 Inspiration
-
-> One of my favorite resources for learning:  
-> **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — *Build your own (insert technology here)*
+> I began programming in python, from there I started playing minecraft and started to learn some java. Now I enjoy trying out new languages and contributing to open source in my free time.
+>   
+> 
 
 ---
 
