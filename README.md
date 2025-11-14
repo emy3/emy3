@@ -14,36 +14,10 @@
 >   
 > 
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emy3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emy3&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emy3&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🏆 Holopin Badges
 
 <div align="center">
 
 [![An image of @emy3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emy3)](https://holopin.io/@emy3)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 *"Code. Build. Deploy. Repeat."* 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=emy3&color=blue&style=flat-square)
 
 </div>
